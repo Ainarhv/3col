@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  margin: 100px;
+  border-radius: 15px;
+  background-color: black;
+  overflow: hidden;
+}
+.card{
+  height: 350px;
+  padding: 33px;
+  color:hsl(0, 0%, 95%);
+}
+p{
+  color:hsla(0, 0%, 100%, 0.75);
+}
+h1{
+  font-family: 'Big Shoulders Display';
+  font-weight: 700;
+}
